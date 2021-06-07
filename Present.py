@@ -178,3 +178,5 @@ frenfry2 = Label(root,text="*ชุดละ 10 บาท", fg="red").pack()
 bt1 = Button(root, text="ยีนยัน", command=test_txt, width=20, fg="green", bg="white").pack()
 
 root.mainloop()
+
+#asdsdasdadasdasdasdasd
