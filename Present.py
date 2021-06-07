@@ -179,4 +179,3 @@ bt1 = Button(root, text="ยีนยัน", command=test_txt, width=20, fg="gr
 
 root.mainloop()
 
-#asdsdasdadasdasdasdasd
